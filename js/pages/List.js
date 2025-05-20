@@ -100,6 +100,16 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
+                        The level must only use one gamemode for clicks, however any form of effect that doesnt require a click in another gamemode is allowed.
+                    </p>
+                    <p>
+                        The level must be over 30+ seconds and both the creator (all in the case of collabs) and verifier must be on the server for a week before it is completed.
+                    </p>
+                    <p>
+                        Your level must not use assets made by other players.
+                    </p>
+                    <h3>Completion Requirements</h3>
+                    <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
@@ -118,7 +128,7 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Do not use easy modes, only a record of the unmodified level qualifies.
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
