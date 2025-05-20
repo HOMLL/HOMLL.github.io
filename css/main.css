@@ -1,10 +1,10 @@
 :root {
-    --color-background: white;
+    --color-background: #FBE4D6;
     --color-on-background: #4E71FF;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
     --color-primary: #3D365C;
-    --color-on-primary: #4E71FF;
+    --color-on-primary: #261FB3;
     --color-error: #de0000;
     --color-on-error: white;
 }
