@@ -13,5 +13,21 @@
         "role": "owner",
         "name": "CuteAxi",
         "link": "https://www.youtube.com/@CuteAxi"
+    },
+    {
+        "role": "dev",
+        "name": "ThorDasher",
+        "link": "https://www.youtube.com/@thordashergd"
+    },
+    {
+        "role": "dev",
+        "name": "Validash",
+        "link": "https://www.youtube.com/@ValidashGD"
+    },
+    {
+        "role": "dev",
+        "name": "CuteAxi",
+        "link": "https://www.youtube.com/@CuteAxi"
     }
+]
 ]
